@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working as intern at javan cipta solusi as java programmer
 - 🌱 I’m currently learning Atma Jaya Yogyakarta University
 <!--
 **Genome06/Genome06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
